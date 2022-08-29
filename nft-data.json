@@ -1,0 +1,6 @@
+{
+  "description" : "Subscription management token",
+  "external_url" : "https://example.com/?token_id=2",
+  "image" : "https://ton.org/",
+  "name" : " My cool channel nft"
+}
